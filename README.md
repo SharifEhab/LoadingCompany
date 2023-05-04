@@ -1,5 +1,5 @@
 
-# Loading Company:
+# Loading Company
 
 ## Description
 This project is a cargo delivery system that helps a shipping company handle their cargo delivery in the most efficient and profitable way possible. The system automates the cargo-truck assignment process to achieve good and fair use of the company's trucks. The program is designed to simulate the operation of the cargo delivery process and calculate some related statistics to help improve the overall process.
