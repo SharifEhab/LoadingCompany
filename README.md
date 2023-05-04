@@ -13,7 +13,7 @@ With this cargo delivery system, the shipping company can improve their operatio
 
 ## Acknowledgments
 
-We would like to express our gratitude to the following contributors who have made valuable contributions to this project:
+I would like to express my gratitude to the following contributors who have made valuable contributions to this project:
 
 - Mariam Gamal ([@mariamgamal70](https://github.com/mariamgamal70))
 - Yara Ihab ([@YaraIhab](https://github.com/YaraIhab))
